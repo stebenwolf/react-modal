@@ -7,7 +7,7 @@
 ## Install
 
 ```bash
-npm install --save react-modal
+npm install --save @stebenwolf/react-modal
 ```
 
 ## Usage
